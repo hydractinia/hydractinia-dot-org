@@ -47,12 +47,13 @@ National University of Ireland Galway
 Galway, Ireland  
 
 ### [Nicotra Lab](https://www.nicotralab.org)
-
+Contact: [Matt Nicotra](mailto:matthew.nicotra@pitt.edu)  
 Starzl Transplantation Institute  
 University of Pittsburgh  
 Pittsburgh, PA, USA  
 
 ### [Schnitzler Lab](https://www.whitney.ufl.edu/people/current-research-faculty/christine-e-schnitzler-phd/)
+Contact: [Christine Schnitzler](mailto:christine.schnitzler@whitney.ufl.edu)
 Whitney Laboratory for Marine Bioscience  
 University of Florida  
 St. Augustine, FL, USA  
