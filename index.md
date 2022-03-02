@@ -29,7 +29,7 @@ feature_row:
     alt: "Fusion between transgenic colonies"
     title: "Strains"
     excerpt: "Several transgenic strains are available."
-    url: "/docs/license/"
+    url: "/resources/animals/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 
