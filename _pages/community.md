@@ -16,7 +16,7 @@ feature_row:
     alt: "Zoom Logo"
     title: "Group meetings"
     excerpt: "We meet biweekly via Zoom to get feedback, share ideas, and set goals for our community."
-    url: "/"
+    url: "/community/group-meetings/"
     btn_class: "btn--primary"
     btn_label: "See the schedule"
   - image_path: /assets/images/directory-icon.jpeg
