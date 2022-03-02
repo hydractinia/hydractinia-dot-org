@@ -19,7 +19,7 @@ title_separator: "|"
 email: hydractiniadotorg@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
   An open resource for the Hydractinia research community
-baseurl: "/hydractinia-dot-org"
+baseurl: ""
 twitter_username: 
 github_username: hydractinia
 repository: "hydractinia/hydractinia-dot-org"
