@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hydractinia.org is an online hub for resources related to the colonial cnidarian, *Hydractinia.* The site is maintained by members of the *Hydractinia* research community, with financial support from an [EDGE grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923259&HistoricalAwards=false) funded by the US [National Science Foundation](https://www.nsf.gov/). The site serves current *Hydractinia* researchers, scientists interested in adopting *Hydractinia* for their own research, educators interested in taking *Hydractinia* into their classrooms, and anyone else who wants to learn more about this fascinating organism. 
+
+
+## Technical Details
+
+This site was created with [Jekyll](https://jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/) and is hosted via [GitHub Pages](https://pages.github.com/). You can view the repository for this site [here](https://github.com/hydractinia/hydractinia-dot-org/).  It is currently maintained by Matt Nicotra. Please [email him](mailto:matthew.nicotra@pitt.edu?subject=hydractinia.org) with questions, comments, or to get involved. 
