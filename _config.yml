@@ -93,7 +93,7 @@ footer:
 #      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hydractinia/"
+      url: "https://github.com/hydractinia/hydractinia.github.io"
 
 defaults:
   # _posts
