@@ -1,0 +1,15 @@
+Matt Nicotra:
+  name   : "Matt Nicotra"
+  avatar : "/assets/images/matt-nicotra-author-image.png"
+  bio    : "_Hydractinia_ enthusiast"
+  links:
+    - label: "Lab Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.nicotralab.org"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mattnicotra"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/matthewnicotra"
+    
