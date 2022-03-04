@@ -14,10 +14,11 @@ This is the repository for the Hydractinia.org website.
   - [x] **Protocols** landing page with subheadings
   - [x] **Literature** landing page
   - [x] **Sequences and Bioinformatics** landing page
-- [ ] Decide whether to make group meeting schedule public (via shared Google Sheet)
-- [ ] Fix search function
-- [ ] Add list of available strains to the **Animals** page
-- [ ] Add list of antibodies to the **Reagents** page
+- [x] Add list of available strains to the **Animals** page
+- [x] Add list of antibodies to the **Reagents** page
+- [ ] Allow Google-Sheets based databases to span entire width
+- [ ] Fix and add search function
+- [ ] Add Jekyll-SEO 
 
 
 
