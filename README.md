@@ -16,6 +16,7 @@ This is the repository for the Hydractinia.org website.
   - [x] **Sequences and Bioinformatics** landing page
 - [x] Add list of available strains to the **Animals** page
 - [x] Add list of antibodies to the **Reagents** page
+- [ ] Links to external websites should open in new tabs
 - [ ] Allow Google-Sheets based databases to span entire width
 - [ ] Fix and add search function
 - [ ] Add Jekyll-SEO 
