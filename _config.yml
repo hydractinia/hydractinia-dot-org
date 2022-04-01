@@ -25,8 +25,13 @@ github_username: hydractinia
 repository: "hydractinia/hydractinia-dot-org"
 minimal_mistakes_skin: default
 
-# search : true
-# search_full_content : false 
+collections: 
+  - pages
+
+search : true
+search_full_content : false 
+
+
 
 breadcrumbs : true
 

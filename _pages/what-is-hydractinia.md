@@ -1,6 +1,6 @@
 ---
 permalink: /about/what-is-hydractinia/
-title: "What is _Hydractinia_?"
+title: "What is Hydractinia?"
 toc: true
 ---
 

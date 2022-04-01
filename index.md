@@ -17,14 +17,14 @@ feature_row:
     excerpt: "An emerging model organism for regeneration, stem cell biology, sex determination, and more."
     url: "/about/what-is-hydractinia/"
     btn_class: "btn--primary"
-    btn_label: "Get introduced"
+    btn_label: "Learn more"
   - image_path: /assets/images/genome-portal-screenshot.png
     alt: "Genome Portal Screenshot"
     title: "Genome Resources"
     excerpt: "Browse the genome and lots of other data at the _Hydractinia_ Genome Portal."
     url: "https://research.nhgri.nih.gov/hydractinia/"
     btn_class: "btn--primary"
-    btn_label: "Go there now"
+    btn_label: "Go there"
   - image_path: /assets/images/magenta-green-fusion.png
     alt: "Fusion between transgenic colonies"
     title: "Strains"

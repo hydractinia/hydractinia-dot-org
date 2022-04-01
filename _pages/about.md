@@ -4,7 +4,7 @@ title: "About"
 ---
 
 
-Hydractinia.org is an online hub for the *Hydractinia* research community. It is maintained with financial support from an [EDGE grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923259&HistoricalAwards=false) funded by the US [National Science Foundation](https://www.nsf.gov/). The site serves current *Hydractinia* researchers, scientists interested in adopting *Hydractinia* for their own research, educators interested in taking *Hydractinia* into their classrooms, and anyone else who wants to learn more about this fascinating organism. 
+Hydractinia.org is an online hub for the *Hydractinia* research community. It is maintained with financial support from <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923259&HistoricalAwards=false" target="_blank">EDGE grant</a> funded by the US <a href="https://www.nsf.gov/" target="_blank">National Science Foudation</a>. The site serves current *Hydractinia* researchers, scientists interested in adopting *Hydractinia* for their own research, educators interested in taking *Hydractinia* into their classrooms, and anyone else who wants to learn more about this fascinating organism. 
 
 
 ## Technical Details
