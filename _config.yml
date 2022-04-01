@@ -29,7 +29,7 @@ collections:
   - pages
 
 search : true
-search_full_content : false 
+search_full_content : true 
 
 
 
