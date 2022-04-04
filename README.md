@@ -5,17 +5,18 @@ This is the repository for the Hydractinia.org website.
 ## Roadmap
 
 
+### Short-Term Content
 
-### Short-Term
+- Antibodies page should have select columns from Google Sheet and link to full Google Sheet
+- Separate primary and secondary antibodies in underlying Google Sheet
+- Make page listing all genomic resources, including those not on the Genome Portal
 
-- [ ] Links to external websites should open in new tabs
-- [ ] On resources/antibodies page, 
-- [x] Fix and add search function
-- [ ] Add Jekyll-SEO 
+### Long-Term Content
 
+- Create outreach page
+- Write page describing gene nomenclature
 
+### Minor Site Functions
 
-### Long-Term
-
-- [ ] Create outreach page
-- [ ] Write page describing gene nomenclature
+- Make all linkes to other sites open in new tabs
+- Add SEO plugin 

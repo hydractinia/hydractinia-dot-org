@@ -1,6 +1,6 @@
 ---
-title: "Bioinformatics and Sequences"
-permalink: /resources/bioinformatics-and-sequences/
+title: "Genomic Resources"
+permalink: /resources/genomic/
 ---
 
 Under construction

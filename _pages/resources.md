@@ -8,7 +8,7 @@ toc: false
 
 ### [Antibodies](/resources/antibodies)
 
-### [Bioinformatics and Sequences](/resources/bioinformatics-and-sequences)
+### [Genomic](/resources/genomic)
 
 ### [Protocols](/resources/protocols)
 
