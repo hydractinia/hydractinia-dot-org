@@ -12,6 +12,4 @@ toc: false
 
 ### [Protocols](/resources/protocols)
 
-### [Reagents](/resources/reagents/)
-
 ### [Literature](/resources/literature)
