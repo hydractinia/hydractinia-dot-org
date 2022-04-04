@@ -7,7 +7,7 @@ title: "About"
 
 ## [About _Hydractinia_](/what-is-hydractinia.md)
 
-_Hydractinia_ is an emerging model system for the study of stem cell biology, regeneration, sex determination, and allorecogition. [Read More](/what-is-hydractinia.md). 
+_Hydractinia_ is an cool emerging model system for the study of stem cell biology, regeneration, sex determination, and allorecogition. [Read More](/what-is-hydractinia.md). 
 
 ## About This Site
 Hydractinia.org is an online hub for the *Hydractinia* research community. It is maintained with financial support from <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923259&HistoricalAwards=false" target="_blank">EDGE grant</a> funded by the US <a href="https://www.nsf.gov/" target="_blank">National Science Foudation</a>. The site serves 
